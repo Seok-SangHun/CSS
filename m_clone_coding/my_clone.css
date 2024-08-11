@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    letter-spacing: -.3px;
+    word-break: keep-all;
+    word-wrap: break-word;
+    -webkit-font-smoothing: antialiased;
+}
+
+* {
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+html {
+    font-family: Pretendard Variable, sans-serif;
+}
+
+.css-hnpde2{display:inline-block;font-size:24px;line-height:1;color:#FFFFFF;}.css-hnpde2::before{font-family:OhouseIcon;vertical-align:top;}
