@@ -977,7 +977,6 @@ ol, ul {
     height: 100%;
     border: 1px solid #EAEDEF;
     border-radius: 8px;
-    -webkit-mask-image: -webkit-radial-gradient(white, black);
     overflow: hidden;
 }
 
@@ -989,7 +988,6 @@ ol, ul {
     border: none;
     background: none;
     font: inherit;
-    vertical-align: top;
     position: absolute;
     display: block;
     top: 0;
@@ -1129,7 +1127,6 @@ ol, ul {
     text-overflow: ellipsis;
     word-wrap: break-word;
     display: -webkit-box;
-    -webkit-line-clamp: 1;
     -webkit-box-orient: vertical;
     font-size: 16px;
     line-height: 20px;
@@ -1237,7 +1234,6 @@ ol, ul {
     overflow: hidden;
     text-overflow: ellipsis;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 5;
 }
 
 .css-1rjwz57 {
@@ -1272,7 +1268,6 @@ ol, ul {
     overflow: hidden;
     text-overflow: ellipsis;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3;
 }
 
 .css-hi49xp {
@@ -1308,7 +1303,6 @@ ol, ul {
     overflow: hidden;
     text-overflow: ellipsis;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 1;
 }
 
 .css-1ewy34x {
